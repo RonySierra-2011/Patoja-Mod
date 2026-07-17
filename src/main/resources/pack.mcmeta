@@ -1,0 +1,8 @@
+{
+  "pack": {
+    "description": "Perrita Mod resources",
+    "pack_format": 42,
+    "forge:resource_pack_format": 42,
+    "forge:data_pack_format": 71
+  }
+}
